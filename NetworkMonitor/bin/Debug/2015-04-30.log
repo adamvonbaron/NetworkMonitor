@@ -1,0 +1,12 @@
+System.FormatException: An invalid IP address was specified.
+   at System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   at System.Net.IPAddress.Parse(String ipString)
+   at NetworkMonitor.Classes.Ping.Send(String from, String to) in c:\Users\adam.kessler\Documents\Visual Studio 2013\Projects\NetworkMonitor\NetworkMonitor\Classes\Ping.cs:line 20
+System.FormatException: An invalid IP address was specified.
+   at System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   at System.Net.IPAddress.Parse(String ipString)
+   at NetworkMonitor.Classes.Ping.Send(String from, String to) in c:\Users\adam.kessler\Documents\Visual Studio 2013\Projects\NetworkMonitor\NetworkMonitor\Classes\Ping.cs:line 20
+System.FormatException: An invalid IP address was specified.
+   at System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   at System.Net.IPAddress.Parse(String ipString)
+   at NetworkMonitor.Classes.Ping.Send(String from, String to) in c:\Users\adam.kessler\Documents\Visual Studio 2013\Projects\NetworkMonitor\NetworkMonitor\Classes\Ping.cs:line 20
