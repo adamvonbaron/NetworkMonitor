@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("NetworkMonitor")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("LHP Software")]
+[assembly: AssemblyCompany("Baron Technologies")]
 [assembly: AssemblyProduct("NetworkMonitor")]
-[assembly: AssemblyCopyright("Copyright © LHP Software 2015")]
+[assembly: AssemblyCopyright("Copyright © Baron Technologies 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
