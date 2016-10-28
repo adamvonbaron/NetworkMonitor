@@ -1,6 +1,0 @@
-C:\Users\adam.kessler\documents\visual studio 2013\Projects\NetworkMonitor\ConsoleApplication1\obj\Debug\TestEmail.csprojResolveAssemblyReference.cache
-C:\Users\adam.kessler\documents\visual studio 2013\Projects\NetworkMonitor\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\adam.kessler\documents\visual studio 2013\Projects\NetworkMonitor\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\adam.kessler\documents\visual studio 2013\Projects\NetworkMonitor\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\adam.kessler\documents\visual studio 2013\Projects\NetworkMonitor\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\adam.kessler\documents\visual studio 2013\Projects\NetworkMonitor\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
